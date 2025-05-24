@@ -1,0 +1,42 @@
+Grow a Garden Stocks - Privacy Policy
+
+Effective Date: May 23, 2025
+
+This Privacy Policy describes how data is collected, used, and protected when using the Grow a Garden Stocks Discord bot ("Bot", "Service").
+
+1. Data Collected from Discord
+The bot may collect the following data:
+- User IDs
+- Usernames
+- Command usage logs
+
+This data is used to improve our services, detect abuse, and better understand how the bot is used. No personal or sensitive information is intentionally collected.
+
+2. Data Collected from Roblox
+We do not collect personal Roblox user data. The in-game bot only shares public gameplay data such as:
+- Stock counts for seeds, gears, and eggs
+- Weather updates
+
+3. Data Storage and Retention
+- Discord user and server data may be stored for up to **1 month**.
+- Game stock data is stored temporarily, for no longer than **10 minutes**.
+- All data is stored securely in a database with encryption and HTTPS protection.
+
+4. Data Sharing
+We do not share collected data with third parties. All data is only used internally for the purpose of operating and improving the bot.
+
+5. Data Deletion
+Users may request deletion of their data by contacting us via our support server: https://discord.gg/rkbhmpk5gg
+
+6. Security
+We use industry-standard security practices, including HTTPS, encryption, and access controls. While we take reasonable steps to secure data, no system is 100% secure.
+
+7. Children's Privacy
+This bot is not intended for use by individuals under the age of 13. By using this bot, you confirm that you are at least 13 years old, in compliance with Discord’s Terms of Service.
+
+8. Intellectual Property Disclaimer
+Grow a Garden is a Roblox game owned by the group "The Garden Game." Any in-game data, names, or visual assets referenced by this bot are their property. We are not affiliated with them, and we will comply with any takedown or removal requests from the rightful owners.
+
+9. Contact
+If you have questions or requests regarding this privacy policy, contact the bot owner via Discord. User ID: `566339392676036620`.
+
