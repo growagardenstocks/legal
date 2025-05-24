@@ -1,0 +1,30 @@
+Grow a Garden Stocks - Terms of Service
+
+Effective Date: May 23, 2025
+
+By using the Grow a Garden Stocks Discord bot ("Bot", "Service"), you agree to the following Terms of Service. If you do not agree, do not use the Bot.
+
+1. Service Overview
+Grow a Garden Stocks is a Discord bot that displays in-game stock data for a Roblox game, collected from a separate bot inside the game and served via an API.
+
+2. User Responsibilities
+You agree to use this bot in compliance with all applicable laws and Discord’s Terms of Service. Any misuse of the bot may result in termination of access without notice.
+
+3. No Restrictions
+The bot is available for all types of Discord servers. However, we reserve the right to remove or restrict access for any reason.
+
+4. Service Availability
+We strive to maintain smooth operation of the bot. However, we do not guarantee uptime or real-time accuracy. The bot may go offline or deliver updates with delays without prior notice.
+
+5. Termination of Access
+We reserve the right to blacklist any user or server from using our bot without reason or prior notification. Blacklisted users will not be informed.
+
+6. Modifications to the Terms
+We may update these terms at any time. Minor changes may be applied without notice, and users are responsible for reviewing the latest version. Major changes will be communicated through the bot or our support Discord server.
+
+7. Intellectual Property Disclaimer
+Grow a Garden is a Roblox game owned by the group "The Garden Game." All logos, game assets, and in-game data referenced or collected by this bot are the property of "The Garden Game" and its creators. We are not affiliated with them in any way. We will promptly remove any content or data upon their request.
+
+8. Contact
+For any concerns or questions regarding these terms, contact the bot owner via Discord. User ID: `566339392676036620`.
+
